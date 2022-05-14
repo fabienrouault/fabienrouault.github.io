@@ -1,9 +1,9 @@
 title: Fabien Rouault
 logo: /assets/img/Photo_profil.png
 description: 
-<a href= "www.linkedin.com/in/fabien-rouault-b9430725"> My LinkedIn Profile </a>
+<a> href= "www.linkedin.com/in/fabien-rouault-b9430725"> My LinkedIn Profile </a>
 <br><br>
-<a href= "https://www.researchgate.net/profile/Fabien-Rouault-2"> My ResearchGate Profile </a>
+<a> href= "https://www.researchgate.net/profile/Fabien-Rouault-2"> My ResearchGate Profile </a>
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
