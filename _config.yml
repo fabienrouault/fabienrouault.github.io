@@ -1,6 +1,10 @@
 title: Fabien Rouault
 logo: /assets/img/IMG_0492.jpg
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+description: >
+
+<a href= "www.linkedin.com/in/fabien-rouault-b9430725"> My LinkedIn Profile </a>
+<br><br>
+<a href= "https://www.researchgate.net/profile/Fabien-Rouault-2"> My ResearchGate Profile </a>
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
