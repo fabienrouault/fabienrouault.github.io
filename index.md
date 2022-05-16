@@ -7,8 +7,8 @@ layout: default
 ## Data visualization
 
 [CO2 emissions](https://rpubs.com/fabrouault/carsco2)
-![Boxplot_Co2](./ Datascienceprojects/images/Boxplot.svg)
-
+![Boxplot_Co2](./assets/img/images_carsco2/Boxplot)
+<img src="/assets/img/images_carsco2/Boxplot.svg?raw=true"
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
