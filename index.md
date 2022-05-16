@@ -2,6 +2,15 @@
 layout: default
 ---
 
+# Data science projects
+
+## Data visualization
+
+[CO2 emissions](https://rpubs.com/fabrouault/carsco2)
+![Boxplot_Co2](./ Datascienceprojects/images/Boxplot.svg)
+
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
