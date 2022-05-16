@@ -8,9 +8,7 @@ layout: default
 
 [CO2 emissions](https://rpubs.com/fabrouault/carsco2)
 
-<img src="https://github.com/fabienrouault/fabienrouault.github.io/blob/main/assets/img/images_carsco2/Boxplot.png" width="200"/>
-<img src="https://github.com/fabienrouault/fabienrouault.github.io/blob/main/assets/img/images_carsco2/Top10_Co2.png" width="200"/>
-<img src="https://github.com/fabienrouault/fabienrouault.github.io/blob/main/assets/img/images_carsco2/CO2_vs_Peso.png" width="200"/>
+<img src="https://github.com/fabienrouault/fabienrouault.github.io/blob/main/assets/img/images_carsco2/Boxplot.png" width="200"/> <img src="https://github.com/fabienrouault/fabienrouault.github.io/blob/main/assets/img/images_carsco2/Top10_Co2.png" width="200"/> <img src="https://github.com/fabienrouault/fabienrouault.github.io/blob/main/assets/img/images_carsco2/CO2_vs_Peso.png" width="200"/>
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
