@@ -7,7 +7,7 @@ layout: default
 ## Data visualization
 
 [CO2 emissions](https://rpubs.com/fabrouault/carsco2)
-![Boxplot_Co2](./assets/img/images_carsco2/Boxplot)
+![Boxplot_Co2](https://github.com/fabienrouault/fabienrouault.github.io/blob/main/assets/img/images_carsco2/Boxplot.png)
 <img src="/assets/img/images_carsco2/Boxplot.svg?raw=true"
 
 
