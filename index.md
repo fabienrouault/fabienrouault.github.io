@@ -8,7 +8,7 @@ layout: default
 
 [CO2 emissions](https://rpubs.com/fabrouault/carsco2)
 ![Boxplot_Co2](https://github.com/fabienrouault/fabienrouault.github.io/blob/main/assets/img/images_carsco2/Boxplot.png)
-<img src="https://github.com/fabienrouault/fabienrouault.github.io/blob/main/assets/img/images_carsco2/Boxplot.png?"/>
+<img src="https://github.com/fabienrouault/fabienrouault.github.io/blob/main/assets/img/images_carsco2/Boxplot.png?" width="50%" height="50%>
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
