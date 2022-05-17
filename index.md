@@ -12,7 +12,7 @@ For a post in instagram in partnership with the team of @yachay_data, I made som
 <img src="https://github.com/fabienrouault/fabienrouault.github.io/blob/main/assets/img/images_carsco2/Boxplot.png" width="200"/> <img src="https://github.com/fabienrouault/fabienrouault.github.io/blob/main/assets/img/images_carsco2/Top10_Co2.png" width="200"/> <img src="https://github.com/fabienrouault/fabienrouault.github.io/blob/main/assets/img/images_carsco2/CO2_vs_Peso.png" width="200"/>
 
 
-### [Global CO2 emissions]
+### [Global CO2 emissions](https://rpubs.com/fabrouault/Co2animate)
 For an introduction of a course about carbon footprint in Buildings, I made two animation that show the relationship between CO2 concentration, Energy, GDP
 
 <img src="https://github.com/fabienrouault/fabienrouault.github.io/blob/main/assets/img/Global_Co2_gif/Energy_y_CO2_from_1800.gif" width="300"/> <img src="https://github.com/fabienrouault/fabienrouault.github.io/blob/main/assets/img/Global_Co2_gif/Co2_vs_PIB_countries.gif" width="300"/> 
