@@ -18,6 +18,11 @@ For an introduction of a course about carbon footprint in Buildings, I made two 
 <img src="./assets/img/Global_Co2_gif/Energy_y_CO2_from_1800.gif" width="200"/> <img src="./assets/img/Global_Co2_gif/Co2_vs_PIB_countries.gif" width="200"/> 
 
 
+### [Datacamp competition - Drinks promotions](https://app.datacamp.com/workspace/w/fa9bab3b-d1a0-46af-bf56-2f98dca60c53)
+<img src="./assets/img/Datacamp/Missing_data.png " width="150"/> <img src="./assets/img/Datacamp/density.png" width="150"/> <img src="./assets/img/Datacamp/index.png" width="150"/>
+
+
+## Machine learning
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
