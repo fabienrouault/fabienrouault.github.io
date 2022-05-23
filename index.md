@@ -25,4 +25,4 @@ For an introduction of a course about carbon footprint in Buildings, I made two 
 ## Machine learning
 
 ### [Cluster analysis of show appartment in Santiago de Chile using k-means method](https://rpubs.com/fabrouault/deptosSantiago)
-
+<img src="./assets/img/img_Cluster/elbow.png" width="200"/> <img src="./assets/img/img_Cluster/cluster.png " width="200"/> 
